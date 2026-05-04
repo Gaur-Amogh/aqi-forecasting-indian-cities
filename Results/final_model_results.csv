@@ -1,0 +1,21 @@
+City,Model,MAE,RMSE,R2
+Delhi,Linear Regression,12.5,18.3,0.62
+Delhi,Random Forest,8.4,12.9,0.87
+Delhi,Gradient Boosting,8.1,12.4,0.88
+Delhi,LSTM,8.0,12.2,0.89
+Mumbai,Linear Regression,10.2,15.4,0.68
+Mumbai,Random Forest,7.6,10.8,0.9
+Mumbai,Gradient Boosting,7.3,10.4,0.91
+Mumbai,LSTM,7.4,10.6,0.9
+Bengaluru,Linear Regression,11.0,16.2,0.65
+Bengaluru,Random Forest,8.0,11.9,0.88
+Bengaluru,Gradient Boosting,7.8,11.6,0.89
+Bengaluru,LSTM,7.9,11.8,0.88
+Chennai,Linear Regression,9.8,14.8,0.7
+Chennai,Random Forest,7.1,10.2,0.92
+Chennai,Gradient Boosting,6.9,9.9,0.93
+Chennai,LSTM,7.0,10.1,0.92
+Hyderabad,Linear Regression,10.9,16.0,0.66
+Hyderabad,Random Forest,8.2,12.1,0.89
+Hyderabad,Gradient Boosting,8.0,11.8,0.9
+Hyderabad,LSTM,8.1,12.0,0.89
